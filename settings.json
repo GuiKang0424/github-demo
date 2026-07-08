@@ -1,0 +1,14 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "ark-1eddd70f-f003-4d27-b684-cf0773fe83e2-7fd39",
+    "ANTHROPIC_BASE_URL": "https://ark.cn-beijing.volces.com/api/plan",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "Doubao-Seedream-5.0-lite",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "Doubao-Seedream-5.0-lite",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "Doubao-Seedream-5.0-lite",
+    "ANTHROPIC_MODEL": "Doubao-Seedream-5.0-lite",
+    "ANTHROPIC_REASONING_MODEL": "Doubao-Seedream-5.0-lite",
+    "HTTPS_PROXY": "http://proxy.singapore.itsec.hihonor.com:8080",
+    "HTTP_PROXY": "http://proxy.singapore.itsec.hihonor.com:8080"
+  },
+  "includeCoAuthoredBy": false
+}
